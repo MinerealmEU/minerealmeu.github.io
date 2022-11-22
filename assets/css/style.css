@@ -9,7 +9,7 @@ html {
 }
 
 body {
-  background-color: #0d1117;
+  background-color: #0c0818;
   color: #fff;
   overflow-x: hidden;
   font-family: "Heebo", sans-serif;
@@ -35,7 +35,7 @@ a:hover {
 }
 
 .navbar {
-  background-color: #161b22 !important;
+  background-color: #171528 !important;
 }
 
 .navbar-dark .navbar-brand {
@@ -85,7 +85,7 @@ header {
 }
 
 .inner-header {
-  background: linear-gradient(to bottom, transparent 0%, #0d1117 80%);
+  background: linear-gradient(to bottom, transparent 0%, #0c0818 80%);
 }
 
 header h3 {
@@ -268,7 +268,7 @@ span.main {
 }
 
 .staff-card {
-  background-color: #0d1117;
+  background-color: #0c0818;
   /*box-shadow: 0 6px 30px 0 rgba(52, 56, 67, 0.4);*/
   border-radius: 10px;
   color: #fff;
